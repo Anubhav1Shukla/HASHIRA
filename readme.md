@@ -75,16 +75,7 @@ Secret for testcase2.json: 238128179693112534769
 ✅ Requirements
 Node.js v14 or higher
 
-No external dependencies are needed.
 
-📬 Submission Instructions
-Once you've tested the code:
-
-Push the repo to GitHub
-
-Copy the GitHub repo link
-
-Submit it via the form: Submission Form
 
 👨‍💻 Author
 Anubhav Shukla
